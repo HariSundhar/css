@@ -1,0 +1,109 @@
+/* body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main{
+    width: 640px;
+    margin: 50px auto;
+    position: relative;
+}
+.sub{
+    position: absolute;
+  text-align: center;
+top:100px;
+color: white;
+}
+.main-img{
+width: 100%;
+border-radius: 18px;
+}
+.btn{
+border: none;
+font-size: 12px;
+border-radius: 80px;
+padding: 16px 30px;
+background-color: white;
+}
+
+/* .card{
+    width: 270px;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    padding: 10px;
+    margin: 10px auto;
+}
+.card-img{
+    width: 100%;
+    border-radius: 14px;
+}
+.banner{
+    background-color: white;
+    position: sticky;
+    top: 0;
+} */
+ /* .card{
+    width: 300px;
+border: 1px solid gray;
+padding: 12px;
+margin: 10px auto;
+border-radius: 14px;
+ }
+ .card-img{
+    width: 100%;
+    border-radius: 10px;
+ }
+ .banner{
+background-color: aqua;
+position: sticky;
+top: 0;
+
+ }  */
+   /* day 3 */
+   body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card{
+    width: 244px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+}
+.card-img{
+    width: 100%;
+    border-radius: 14px;
+}
+.parent{
+    display: flex;
+    gap: 14px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+/* .flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} */
+/*  justify-content is used to move the flex elements in the horizontal direaction */
+/*  align-items is used to move the flex elements in the vertical direaction */
+.pizzaHouse{
+justify-content: center;
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+}
+.pizzaHouse-img{
+    width: 100%;
+   border-radius: 14px;
+}
+.pizza{
+width: 240px;
+border: 1px solid rgb(219, 219, 219);
+border-radius: 10px;
+padding: 10px;
+}
+.save{
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+}
+
